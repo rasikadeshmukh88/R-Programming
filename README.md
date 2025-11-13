@@ -1,2 +1,2 @@
 # R-Programming
-Basics to Advance R programming
+Beginner-friendly R programs demonstrating core concepts and operations.
